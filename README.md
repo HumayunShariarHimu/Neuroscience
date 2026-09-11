@@ -11,6 +11,15 @@ Based in Bangladesh
 
 > A curated and organized collection of resources related to **Neuroscience**.
 
+**Humayun Shariar Himu**  
+A Passionated Psychologist & Tech Lover!  
+Based in Bangladesh  
+[GitHub Profile](https://github.com/HumayunShariarHimu)
+
+# Neuroscience
+
+> A curated and organized collection of resources related to **Neuroscience**.
+
 **Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Neuroscience
